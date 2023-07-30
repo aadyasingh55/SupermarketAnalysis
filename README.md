@@ -33,8 +33,8 @@ To make the analysis more interactive and visually appealing, we created dynamic
 ## How to Use the Dashboards
 Access the Tableau and Power BI dashboards using the links provided below:
 
-Tableau Dashboard: Link to Tableau Dashboard
-Power BI Dashboard: 
+	Tableau Dashboard: 
+	Power BI Dashboard: https://github.com/aadyasingh55/SupermarketAnalysis/blob/main/SupermarketSales.pbix
 Once you access the dashboards, you can interact with the visualizations using various filters, such as branch, product line, date, customer type, and more.
 
 Explore different tabs and charts to understand the sales patterns, popular product categories, and customer behavior.
