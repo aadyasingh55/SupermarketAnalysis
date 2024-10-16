@@ -1,6 +1,6 @@
 # Supermarket Sales Analysis - README
 ## Introduction
-Welcome to the Supermarket Sales Analysis project! This project aims to explore and analyze historical sales data from a supermarket company. The dataset contains records from 3 different branches over a span of 3 months. The analysis is performed using Python for Exploratory Data Analysis (EDA), and the insights are visualized through interactive dashboards created using Tableau and Power BI.
+Welcome to the Supermarket Sales Analysis project! This project aims to explore and analyze historical sales data from a supermarket company. The dataset contains records from 3 different branches over a span of 3 months. The analysis is performed using Python for Exploratory Data Analysis (EDA), and the insights are visualized through interactive dashboards created using  Power BI.
 
 ## Dataset
 The dataset used for this analysis is provided by Kaggle. 
